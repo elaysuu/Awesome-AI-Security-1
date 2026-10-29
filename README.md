@@ -304,7 +304,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[ultraprobe](https://github.com/ppcvote/ultralab/tree/master/ultraprobe)** [![GitHub Repo stars](https://img.shields.io/github/stars/ppcvote/ultralab?logo=github&label=&style=social)](https://github.com/ppcvote/ultralab) - Lighthouse-style CLI for AI agents: bundles prompt defense audit (17 vectors), PII detection, and SEO/AEO/AAO scanners into a single AVS Score. Pure deterministic, zero-config, MIT-licensed. Designed for CI gates and pre-deployment scoring.
 - **[agent-preship-guard](https://github.com/elaysuu/agent-preship-guard)** [![GitHub Repo stars](https://img.shields.io/github/stars/elaysuu/agent-preship-guard?logo=github&label=&style=social)](https://github.com/elaysuu/agent-preship-guard) - GitHub Action with 8 heuristic static rules for agent code (model output to shell, model-chosen destructive calls without an approval gate); emits PR annotations.
 
-
 #### Scoring/leaderboards & evidence reports
 - *(none from your current list yet)*
 
